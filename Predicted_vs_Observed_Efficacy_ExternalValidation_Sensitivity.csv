@@ -1,0 +1,13 @@
+TechnicalName,PredictedEfficacy,Lower_Pred,Upper_Pred,NAb
+"2ChAdOx1nCoV-19+
+1BNT162b2",93.57,90.47,96.66,95%CI_lower
+"2ChAdOx1nCoV-19+
+1BNT162b2",94.46,91.53,97.4,Mean
+"2ChAdOx1nCoV-19+
+1BNT162b2",95.25,92.48,98.01,95%CI_upper
+"2CoronaVac+
+1BNT162b2",92.12,88.85,95.4,95%CI_lower
+"2CoronaVac+
+1BNT162b2",93.78,90.72,96.84,Mean
+"2CoronaVac+
+1BNT162b2",95.12,92.32,97.91,95%CI_upper

@@ -1,0 +1,7 @@
+TechnicalName,PredictedEfficacy,Lower_Pred,Upper_Pred,VE,
+2CoronaVac+1BNT162b2,60.2,29.31,91.08,95%CI_lower,2CoronaVac+1ChAdOx1在GD最大时报道的VE的95%CI上限
+2CoronaVac+1BNT162b2,61,29.7,92.3,Mean,2CoronaVac+1ChAdOx1在GD最大时报道的VE
+2CoronaVac+1BNT162b2,61.46,29.66,93.26,95%CI_upper,2CoronaVac+1ChAdOx1在GD最大时报道的VE的95%CI下限
+2CoronaVac+1ChAdOx1,79.19,53.51,104.87,95%CI_lower,2CoronaVac+1BNT162b2在GD最大时报道的VE的95%CI上限
+2CoronaVac+1ChAdOx1,79.24,53.55,104.94,Mean,2CoronaVac+1BNT162b2在GD最大时报道的VE
+2CoronaVac+1ChAdOx1,79.28,53.57,104.99,95%CI_upper,2CoronaVac+1BNT162b2在GD最大时报道的VE的95%CI下限
